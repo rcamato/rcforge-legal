@@ -1,3 +1,7 @@
+---
+title: RCForge QR Scanner Terms of Use
+permalink: /rcforge-legal/qr-scanner/terms/
+---
 # RCForge QR Scanner – Private & Offline
 
 ## Terms of Use
