@@ -1,3 +1,7 @@
+---
+title: RCForge QR Scanner Privacy Policy
+permalink: /rcforge-legal/qr-scanner/privacy/
+---
 # RCForge QR Scanner – Private & Offline
 
 ## Privacy Policy
